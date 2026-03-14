@@ -43,4 +43,4 @@ The project uses three datasets:
 4. Improve product descriptions and packaging to reduce return rates.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+   Dashboard
